@@ -1,0 +1,10 @@
+{
+  "id": "register-extensions",
+  "name": "Register Extensions",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Register arbitrary file extensions to be opened as Markdown in Obsidian. Manage target extensions from the settings tab.",
+  "author": "obsidian-register-extensions",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
